@@ -6,14 +6,14 @@ email: pigofsir@gmai.com
 description: "做人一定要谦虚"
 keyword: ""
 url: "https://texttxet.github.io"              # your host, for absolute URL
-baseurl: "/texttxet"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
 zhihu_username:     
-github_username:    text
+github_username:    texttext
 facebook_username:    BI PG
 
 
@@ -48,7 +48,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: Jlcaoblog
+duoshuo_username: pig blog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -57,10 +57,10 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+ba_track_id: 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: caojiele.com
+ga_track_id: ''            # Format: UA-xxxxxx-xx
+ga_domain: 
 
 
 
@@ -80,7 +80,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Jlcao Blog",
-        href: "https://caojiele.com"
+        title: "PIG",
+        href: "https://texttxet.github.io"
 	}
 ]
