@@ -12,7 +12,6 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: true
-zhihu_username:     
 github_username:    texttext
 facebook_username:    BI PG
 
